@@ -1,6 +1,14 @@
 namespace products;
 
 
+type Address { // estructura personalizada
+    street     : String;
+    city       : String;
+    state      : String(2);                 //indica la longitud del string
+    postalcode : String(5);
+    country    : String(3);
+};
+
 entity Products {
     key ID               : UUID;
         name             : String;
@@ -8,7 +16,7 @@ entity Products {
         imageurl         : String;
         releaseDate      : Date;
         discontinuedDate : Date;
-        price            : Decimal(9, 2); // primer numero indica la longitud del numero y el segundo la cantidad de decimales
+        price            : Decimal(9, 2);   // primer numero indica la longitud del numero y el segundo la cantidad de decimales
         height           : Decimal(5, 2);
         width            : Decimal(5, 2);
         depth            : Decimal(5, 2);
@@ -20,7 +28,7 @@ entity supplier {
         name       : String;
         street     : String;
         city       : String;
-        state      : String(2); //indica la longitud del string
+        state      : String(2);             //indica la longitud del string
         postalcode : String(5);
         country    : String(3);
         email      : String;
@@ -68,4 +76,27 @@ entity salesdata {
     key ID           : UUID;
         deliverydate : Date;
         revenue      : Decimal(9, 2);
+};
+
+entity supplier_01 {
+    key ID      : UUID;
+        name    : String;
+        street  : String;
+        address : Address;              //estructura personalizada
+        email   : String;
+        phone   : String;
+};
+
+entity supplier_02 {
+    key ID      : UUID;
+        name    : String;
+        address : {                     //estructura personalizada implicita en una entidad
+            street     : String;
+            city       : String;
+            state      : String(2);     //indica la longitud del string
+            postalcode : String(5);
+            country    : String(3);
+        };
+        email   : String;
+        phone   : String;
 };
