@@ -65,6 +65,7 @@ entity productreviews {
 };
 
 entity salesdata {
-    key deliverydate : Date;
+    key ID           : UUID;
+        deliverydate : Date;
         revenue      : Decimal(9, 2);
 };
