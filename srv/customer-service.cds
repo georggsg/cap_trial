@@ -1,6 +1,6 @@
 using {products as products} from '../db/schema';
 
-service CustomerService {
+service CatalogService {
 
-    entity CustomerSrv as projection on products.Customer;
+    entity Products as projection on products.Products;
 }

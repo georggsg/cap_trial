@@ -1,0 +1,51 @@
+ID,description
+1,In transit - warehouse B7
+2,Out of stock - warehouse E4
+3,Low stock - warehouse C3
+4,Out of stock - warehouse A3
+5,Discontinued - warehouse E5
+6,Damaged - warehouse A8
+7,Discontinued - warehouse D5
+8,Returned - warehouse E8
+9,Damaged - warehouse A1
+10,Reserved - warehouse C5
+11,In stock - warehouse A4
+12,In transit - warehouse E1
+13,Discontinued - warehouse E1
+14,Low stock - warehouse D9
+15,Damaged - warehouse C3
+16,In transit - warehouse D8
+17,Out of stock - warehouse D6
+18,Reserved - warehouse C6
+19,Out of stock - warehouse B6
+20,Reserved - warehouse D5
+21,Reserved - warehouse E1
+22,Damaged - warehouse A6
+23,Discontinued - warehouse C2
+24,Reserved - warehouse E1
+25,Returned - warehouse D7
+26,In stock - warehouse B9
+27,Pre-order - warehouse E8
+28,Damaged - warehouse A4
+29,Discontinued - warehouse E3
+30,Discontinued - warehouse D8
+31,Out of stock - warehouse A4
+32,Low stock - warehouse C9
+33,In stock - warehouse E7
+34,Out of stock - warehouse B2
+35,Damaged - warehouse A3
+36,Damaged - warehouse C9
+37,Discontinued - warehouse D8
+38,Damaged - warehouse B8
+39,Returned - warehouse B7
+40,Backordered - warehouse E9
+41,Low stock - warehouse A5
+42,Reserved - warehouse C9
+43,Discontinued - warehouse A5
+44,Discontinued - warehouse E8
+45,Low stock - warehouse D9
+46,Damaged - warehouse C6
+47,Returned - warehouse E7
+48,Damaged - warehouse C4
+49,Backordered - warehouse E7
+50,Backordered - warehouse D1

@@ -1,0 +1,51 @@
+ID,name,street,city,state,postalcode,country,email,phone
+9526c77a-0357-415b-8860-c1048b23d506,Delta Logistics,Calle Alcalá 13,Berlin,BE,10115,DEU,info@delta1.com,+34 885 355 968
+1cf27ca7-b607-4f72-ae71-5073c59f8e42,Pioneer Logistics,Calle Alcalá 171,Barcelona,CT,08001,ESP,info@pioneer2.com,+34 871 672 709
+cff14ed2-86e8-4e25-8ece-1552b32767f1,Horizon Systems,Ronda Sant Pere 213,Munich,BY,80331,DEU,info@horizon3.com,+34 880 556 262
+6cb3aca2-4e49-48bb-a311-c6e23e030d4a,Apex Systems,Calle Alcalá 67,Vienna,09,10100,AUT,info@apex4.com,+34 984 353 960
+6b578739-0a2a-4573-9bf1-d081bad1f039,Vertex Solutions,Calle Alcalá 161,Amsterdam,NH,10120,NLD,info@vertex5.com,+34 722 381 550
+5e130dd2-5705-43b2-9afe-a3ec59f64de0,Cascade Group,Paseo de Gracia 70,Barcelona,CT,08001,ESP,info@cascade6.com,+34 771 427 653
+be0c6d2f-ab10-4f2c-b304-d5ecf63da3f3,Nordic Logistics,Paseo de Gracia 99,Barcelona,CT,08001,ESP,info@nordic7.com,+34 955 256 823
+a822e852-93e5-490c-a96c-e6e2cbb9fb6e,Global Industries,Ronda Sant Pere 85,Sevilla,AN,41001,ESP,info@global8.com,+34 877 577 525
+148df4f4-ba53-4a61-b044-fdd443a8d0a4,Delta Industries,Ronda Sant Pere 232,Madrid,MD,28001,ESP,info@delta9.com,+34 994 698 812
+fa0bbb15-bd9a-49c0-861f-9dee30499eab,Apex Corp,Ronda Sant Pere 123,Madrid,MD,28001,ESP,info@apex10.com,+34 603 460 405
+533bcfc0-2207-44f1-b707-c15da8a511a4,Apex Industries,Paseo de Gracia 125,Berlin,BE,10115,DEU,info@apex11.com,+34 712 379 546
+3cca7885-733e-4ee9-9f31-d0551060c9d3,Ibérica Industries,Av. América 172,Paris,75,75001,FRA,info@ibérica12.com,+34 947 917 514
+69e7f2de-70b3-4f63-ab76-6f57c25023a5,Nordic Systems,Gran Vía 160,Vienna,09,10100,AUT,info@nordic13.com,+34 873 127 503
+97af37cb-aa7e-4c90-a029-1231458d9855,Zenith Supplies,Av. Diagonal 165,Lisbon,LI,11000,PRT,info@zenith14.com,+34 819 238 987
+79a72e21-f309-4270-84d0-bf03ec85fdfd,Nordic Supplies,Calle Serrano 98,Paris,75,75001,FRA,info@nordic15.com,+34 767 316 565
+4eb50be8-af66-45c8-af8a-b9e2741a8a00,Summit Industries,Calle Serrano 193,Munich,BY,80331,DEU,info@summit16.com,+34 815 358 954
+f5956088-38e4-4070-b0ad-4d1f1a5f8c01,Pioneer Supplies,Calle Mayor 244,Barcelona,CT,08001,ESP,info@pioneer17.com,+34 779 329 765
+19b7b051-da83-4480-b23c-dbf24d0e582d,Horizon Supplies,Calle Mayor 244,Barcelona,CT,08001,ESP,info@horizon18.com,+34 726 304 959
+947a5776-251d-4a69-aaef-0d260aeedf5c,Zenith Logistics,Paseo de Gracia 33,Madrid,MD,28001,ESP,info@zenith19.com,+34 842 785 217
+49ea0ed7-9910-444c-b21f-ff9d2f6b58fb,Delta Systems,Calle Serrano 197,Lisbon,LI,11000,PRT,info@delta20.com,+34 788 271 720
+083d66f0-8ab5-42cf-b0ef-6a9ff4878617,Cascade Trading,Gran Vía 247,Lisbon,LI,11000,PRT,info@cascade21.com,+34 759 210 692
+135c5100-92a2-4612-983b-c784081f5c06,Quantum Group,Ronda Sant Pere 102,Madrid,MD,28001,ESP,info@quantum22.com,+34 966 303 177
+51cbda73-0b7d-401b-aba7-2b19aee7a8b9,Cascade Distribution,Av. Diagonal 179,Lisbon,LI,11000,PRT,info@cascade23.com,+34 995 408 970
+42208576-cbc3-4b40-bbb7-7e68e45a58d5,Zenith Trading,Calle Mayor 89,Amsterdam,NH,10120,NLD,info@zenith24.com,+34 872 538 777
+39b1cc56-947e-4989-9a40-79e0e6888304,Global Solutions,Av. América 4,Munich,BY,80331,DEU,info@global25.com,+34 815 942 601
+f094d636-b4f7-4437-a2aa-9ebe3af08893,Atlas Partners,Calle Alcalá 182,Barcelona,CT,08001,ESP,info@atlas26.com,+34 678 545 280
+0ba36ee1-c110-46e3-a18c-d3118a55662d,Meridian Group,Calle Alcalá 120,Vienna,09,10100,AUT,info@meridian27.com,+34 823 945 848
+25c83d13-8fc8-48d1-94dd-723c8b897814,Vertex Partners,Paseo de Gracia 213,Lisbon,LI,11000,PRT,info@vertex28.com,+34 644 385 561
+16c5862b-1622-4f64-b3d1-3b9e92202912,Horizon Systems,Ronda Sant Pere 87,Sevilla,AN,41001,ESP,info@horizon29.com,+34 614 606 971
+6d81ae76-9b80-4c0d-a433-0e3c4b42bfbd,Nordic Systems,Paseo de Gracia 91,Munich,BY,80331,DEU,info@nordic30.com,+34 732 448 386
+30e96df6-6a19-4309-bdf7-e46059f64cf0,Cascade Group,Calle Mayor 133,Lisbon,LI,11000,PRT,info@cascade31.com,+34 697 187 347
+401fb0ee-4e9d-4d60-a39d-0ed823c45396,Atlas Systems,Paseo de Gracia 177,Vienna,09,10100,AUT,info@atlas32.com,+34 843 761 828
+37c64221-a107-41f4-bb12-08cc9e04b7bc,Pioneer Supplies,Av. Diagonal 76,Paris,75,75001,FRA,info@pioneer33.com,+34 713 514 808
+46089ac0-4869-4b0f-81bb-2065fd40eddd,Vertex Corp,Av. América 122,Sevilla,AN,41001,ESP,info@vertex34.com,+34 883 643 452
+cf11e905-e1c8-4ba0-ba41-ad2a3df6f950,Cascade Solutions,Av. América 91,Berlin,BE,10115,DEU,info@cascade35.com,+34 959 564 377
+04844d7a-de8c-473e-a235-9cb49e03c978,Vertex Distribution,Av. Diagonal 185,Bilbao,PV,48001,ESP,info@vertex36.com,+34 698 423 222
+ec632ffd-4c54-4d8f-a8b0-e213f2e30a74,Meridian Logistics,Paseo de Gracia 56,Vienna,09,10100,AUT,info@meridian37.com,+34 978 595 383
+94a0faf4-0d0d-45f1-a872-5d5e856f9fa9,Zenith Solutions,Calle Serrano 26,Vienna,09,10100,AUT,info@zenith38.com,+34 699 403 332
+bd23bafc-2543-4c8b-bcd7-d17be37650db,Nordic Group,Calle Mayor 182,Munich,BY,80331,DEU,info@nordic39.com,+34 873 229 380
+a525f852-b19a-4201-85d2-a84d8cbb7456,Ibérica Solutions,Calle Serrano 179,Madrid,MD,28001,ESP,info@ibérica40.com,+34 664 753 989
+de724878-ed1c-49bd-94fc-6baf41328104,Global Supplies,Calle Serrano 121,Paris,75,75001,FRA,info@global41.com,+34 845 551 448
+c9c1b585-5439-48d5-9356-a5191c998ab9,Ibérica Group,Calle Alcalá 30,Valencia,VC,46001,ESP,info@ibérica42.com,+34 633 510 603
+68774903-a953-4162-9a4b-49db33a70333,Zenith Supplies,Gran Vía 39,Barcelona,CT,08001,ESP,info@zenith43.com,+34 888 411 187
+4b6cee6b-e6e4-4a81-aef0-41dc96045270,Global Solutions,Ronda Sant Pere 156,Sevilla,AN,41001,ESP,info@global44.com,+34 905 909 733
+0078d38d-6605-4c1e-acd2-2888baa0d177,Horizon Solutions,Ronda Sant Pere 116,Sevilla,AN,41001,ESP,info@horizon45.com,+34 826 404 980
+1817684a-3960-497c-bd0d-803547752a8e,Atlas Group,Calle Mayor 157,Lisbon,LI,11000,PRT,info@atlas46.com,+34 978 201 881
+9b32980f-e9d0-43cf-a85e-81ce6c05e069,Orion Distribution,Calle Serrano 170,Sevilla,AN,41001,ESP,info@orion47.com,+34 641 260 345
+0e60098c-9f66-43a3-a93e-5d639870ef88,Meridian Trading,Gran Vía 1,Valencia,VC,46001,ESP,info@meridian48.com,+34 809 561 805
+b83a5727-a761-473a-8cf5-b51658683393,Pioneer Group,Calle Mayor 60,Lisbon,LI,11000,PRT,info@pioneer49.com,+34 747 823 389
+51850306-2d3e-44fa-ba34-4e9892efb167,Apex Systems,Av. Diagonal 176,Vienna,09,10100,AUT,info@apex50.com,+34 719 370 906
